@@ -1,6 +1,6 @@
 # bike-sharing-demand
 
-OBJECTIVE: Create a regression model that best predicts bike sharing demand in Seoul, Korea
+OBJECTIVE: Identify the most important factors influencing bike sharing demand. 
 
 Data Source: https://app.datacamp.com/workspace/datasets/dataset-python-bike-sharing-demand
 
